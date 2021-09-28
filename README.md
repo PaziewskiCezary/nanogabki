@@ -1,6 +1,6 @@
 # Electrode Tester
 
-Foobar is a Python library for testing EEG electrodes.
+Electrode Tester is a Python library for testing EEG electrodes.
 
 <!--
 ## Installation
